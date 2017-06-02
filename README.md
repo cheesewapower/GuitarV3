@@ -2,6 +2,8 @@
 使用的方法是spring注解
 spring配置：
 ![](https://github.com/cheesewapower/GuitarV3/blob/master/pic/spring%E9%85%8D%E7%BD%AE.JPG)
+
+
 xml下切换数据库
 ![](https://github.com/cheesewapower/GuitarV3/blob/master/pic/%E5%88%87%E6%8D%A2%E6%95%B0%E6%8D%AE%E5%BA%93.JPG)
 查询
